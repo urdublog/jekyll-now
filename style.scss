@@ -15,11 +15,13 @@
 
 html {
   font-size: 100%;
+  dir="rtl";
+  lang="ur"
 }
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $urdufont;
   color: $darkGray;
 }
 
